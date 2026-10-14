@@ -117,7 +117,7 @@ python3 skills/content-card-designer/scripts/cardkit.py check-env
 
 Claude 会根据你的需求自动调用。没有自动触发时可以点名：在 Claude Code 里输入 `/content-card-designer`，在 Claude.ai 里说"用 content-card-designer 这个 skill"。
 
-它和系列里另外两个 skill 搭配使用：[content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer) 规划发什么，[human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) 帮你写出来，这个把它做成卡片。
+它和系列里其他 skill 搭配使用：[research-learning](https://github.com/meiluosi/research-learning) 产出值得做成卡片的真实结果，[content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer) 规划发什么，[human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) 帮你写出来，这个把它做成卡片。
 
 直接用脚本：
 

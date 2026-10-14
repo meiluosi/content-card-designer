@@ -117,7 +117,7 @@ Describe what you want to make and where it will go. For example:
 
 Claude picks the skill from what you ask. If it doesn't trigger, name it: in Claude Code type `/content-card-designer`, or say "use the content-card-designer skill" in Claude.ai.
 
-It pairs with the other two skills in this series: [content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer) plans what to post, [human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) helps you write it, and this one turns it into cards.
+It pairs with the other skills in this series: [research-learning](https://github.com/meiluosi/research-learning) produces the real results worth putting on a card, [content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer) plans what to post, [human-in-the-loop-writing](https://github.com/meiluosi/human-in-the-loop-writing) helps you write it, and this one turns it into cards.
 
 Using the script directly:
 
