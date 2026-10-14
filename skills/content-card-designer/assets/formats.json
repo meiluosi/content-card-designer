@@ -1,0 +1,112 @@
+{
+  "_note": "Format profiles. Sizes, margins and budgets are starting points, not platform guarantees: platforms change their specs, so check the current ones before publishing and edit this file freely.",
+  "xhs-3x4": {
+    "label": "Xiaohongshu / Rednote image set, 3:4",
+    "w": 1080,
+    "h": 1440,
+    "pad": 84,
+    "min_font": 34,
+    "cards": [
+      3,
+      9
+    ],
+    "max_chars": 140,
+    "verify": true
+  },
+  "ig-4x5": {
+    "label": "Instagram or LinkedIn carousel, 4:5",
+    "w": 1080,
+    "h": 1350,
+    "pad": 84,
+    "min_font": 34,
+    "cards": [
+      3,
+      10
+    ],
+    "max_chars": 130,
+    "verify": true
+  },
+  "square-1x1": {
+    "label": "Square post, 1:1",
+    "w": 1080,
+    "h": 1080,
+    "pad": 84,
+    "min_font": 34,
+    "cards": [
+      1,
+      10
+    ],
+    "max_chars": 100,
+    "verify": true
+  },
+  "wide-16x9": {
+    "label": "Blog or video cover, slide, 16:9",
+    "w": 1920,
+    "h": 1080,
+    "pad": 110,
+    "min_font": 34,
+    "cards": [
+      1,
+      12
+    ],
+    "max_chars": 120,
+    "verify": true
+  },
+  "wechat-cover-21x9": {
+    "label": "WeChat article main cover, about 21:9 (pair it with a 1:1 square)",
+    "w": 2100,
+    "h": 900,
+    "pad": 100,
+    "min_font": 40,
+    "cards": [
+      1,
+      1
+    ],
+    "max_chars": 40,
+    "verify": true,
+    "footer": false
+  },
+  "story-9x16": {
+    "label": "Vertical story or short-video cover, 9:16",
+    "w": 1080,
+    "h": 1920,
+    "pad": 90,
+    "min_font": 36,
+    "cards": [
+      1,
+      8
+    ],
+    "max_chars": 120,
+    "verify": true
+  },
+  "avatar-1x1": {
+    "label": "Profile avatar, 1:1 (keep the mark inside the centre circle)",
+    "w": 800,
+    "h": 800,
+    "pad": 80,
+    "min_font": 40,
+    "cards": [
+      1,
+      1
+    ],
+    "max_chars": 12,
+    "u": 0.74,
+    "verify": true,
+    "footer": false
+  },
+  "banner-3x1": {
+    "label": "Profile header banner, about 3:1",
+    "w": 1500,
+    "h": 500,
+    "pad": 70,
+    "min_font": 30,
+    "cards": [
+      1,
+      1
+    ],
+    "max_chars": 40,
+    "u": 0.55,
+    "verify": true,
+    "footer": false
+  }
+}

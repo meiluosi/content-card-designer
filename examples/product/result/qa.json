@@ -1,0 +1,37 @@
+{
+ "format": "ig-4x5",
+ "mood": "warm",
+ "cards": [
+  {
+   "card": 1,
+   "file": "card-01.png",
+   "layout": "product",
+   "qa": {
+    "layout": "product",
+    "scale": 1.1,
+    "fitStatus": "ok",
+    "overflow": false,
+    "minFont": 37.4,
+    "minFontRequired": 34,
+    "fillPct": 37,
+    "contrastIssues": [],
+    "shortLastLines": [],
+    "photoText": [],
+    "w": 1080,
+    "h": 1350
+   },
+   "png_size": [
+    1080,
+    1350
+   ],
+   "fails": [],
+   "warns": [
+    "card is only 37% full; add content or choose a sparser layout"
+   ]
+  }
+ ],
+ "spec_warnings": [
+  "1 cards; the usual range for ig-4x5 is 3 to 10",
+  "Trimmed the empty transparent margins of mug.png; the visible pixels are unchanged."
+ ]
+}

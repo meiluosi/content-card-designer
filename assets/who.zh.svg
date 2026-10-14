@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" role="img">
+<rect x="0.5" y="0.5" width="1199" height="399" rx="18" fill="#F7F5F0" stroke="#D8D4CC"/>
+<text x="600" y="42" font-size="22" fill="#1F2430" font-weight="700" text-anchor="middle">谁负责什么</text>
+<rect x="60" y="70" width="340" height="230" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="60" y="70" width="340" height="10" rx="5" fill="#1F9D6B"/>
+<text x="82" y="120" font-size="21" fill="#1F9D6B" font-weight="700" text-anchor="start">浏览器负责画</text>
+<circle cx="90" cy="155" r="5" fill="#1F9D6B"/>
+<text x="106" y="160" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">所有文字，清晰且正确</text>
+<circle cx="90" cy="197" r="5" fill="#1F9D6B"/>
+<text x="106" y="202" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">版式、形状、简单标记</text>
+<circle cx="90" cy="239" r="5" fill="#1F9D6B"/>
+<text x="106" y="244" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">图表和示意图</text>
+<rect x="430" y="70" width="340" height="230" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="430" y="70" width="340" height="10" rx="5" fill="#2F6FDE"/>
+<text x="452" y="120" font-size="21" fill="#2F6FDE" font-weight="700" text-anchor="start">你来提供</text>
+<circle cx="460" cy="155" r="5" fill="#2F6FDE"/>
+<text x="476" y="160" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">截图和产品照片</text>
+<circle cx="460" cy="197" r="5" fill="#2F6FDE"/>
+<text x="476" y="202" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">数字和论断</text>
+<circle cx="460" cy="239" r="5" fill="#2F6FDE"/>
+<text x="476" y="244" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">Logo 和品牌色</text>
+<rect x="800" y="70" width="340" height="230" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="800" y="70" width="340" height="10" rx="5" fill="#7048E8"/>
+<text x="822" y="120" font-size="21" fill="#7048E8" font-weight="700" text-anchor="start">图像工具（可选）</text>
+<circle cx="830" cy="155" r="5" fill="#7048E8"/>
+<text x="846" y="160" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">只出不含文字的背景</text>
+<circle cx="830" cy="197" r="5" fill="#7048E8"/>
+<text x="846" y="202" font-size="17" fill="#1F2430" font-weight="400" text-anchor="start">并留出放文字的区域</text>
+<text x="600" y="350" font-size="19" fill="#5B6270" font-weight="600" text-anchor="middle">文字不经过图像模型，真实素材也不会被重画。</text>
+</svg>

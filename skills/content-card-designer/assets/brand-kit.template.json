@@ -1,0 +1,22 @@
+{
+  "_note": "Optional brand kit. Copy to brand-kit.json next to your spec and edit. Every field is optional; whatever you set overrides the chosen mood's tokens.",
+  "name": "Your name or brand",
+  "handle": "@yourhandle",
+  "footer_left": "Your name or brand",
+  "mood": "efficient",
+  "palette": {
+    "bg": null,
+    "ink": null,
+    "muted": null,
+    "surface": null,
+    "line": null,
+    "accents": []
+  },
+  "fonts": {
+    "title": null,
+    "body": null
+  },
+  "radius": null,
+  "logo": null,
+  "avoid": ["purple-blue gradients", "stock-style glow effects"]
+}

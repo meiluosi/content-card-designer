@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" role="img">
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="#F7F5F0" stroke="#D8D4CC"/>
+<text x="60" y="100" font-size="46" fill="#1F2430" font-weight="700" text-anchor="start">content-card-designer</text>
+<text x="60" y="150" font-size="28" fill="#1F2430" font-weight="400" text-anchor="start">文字清晰、真实素材不动、导出前先质检的图文卡片</text>
+<text x="60" y="186" font-size="17" fill="#5B6270" font-weight="400" text-anchor="start">HTML/CSS 渲染成 PNG · 不需要图像 API · 一份 spec，多种画幅</text>
+<rect x="60" y="222" width="150" height="46" rx="23" fill="#2F6FDE"/>
+<text x="135" y="251" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">图文卡片</text>
+<rect x="226" y="222" width="110" height="46" rx="23" fill="#1F9D6B"/>
+<text x="281" y="251" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">封面</text>
+<rect x="352" y="222" width="110" height="46" rx="23" fill="#D9480F"/>
+<text x="407" y="251" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">头像</text>
+<rect x="478" y="222" width="150" height="46" rx="23" fill="#C2255C"/>
+<text x="553" y="251" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">主页头图</text>
+<rect x="644" y="222" width="150" height="46" rx="23" fill="#7048E8"/>
+<text x="719" y="251" font-size="17" fill="#FFFFFF" font-weight="600" text-anchor="middle">产品海报</text>
+</svg>

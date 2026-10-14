@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" role="img">
+<rect x="0.5" y="0.5" width="1199" height="419" rx="18" fill="#F7F5F0" stroke="#D8D4CC"/>
+<text x="600" y="42" font-size="22" fill="#1F2430" font-weight="700" text-anchor="middle">从内容到过检的卡片</text>
+<rect x="38" y="70" width="164" height="132" rx="14" fill="#FFFFFF" stroke="#2F6FDE" stroke-width="1.8"/>
+<circle cx="62" cy="98" r="13" fill="#2F6FDE"/>
+<text x="62" y="103" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<text x="84" y="104" font-size="20" fill="#2F6FDE" font-weight="700" text-anchor="start">简报</text>
+<text x="52" y="144" font-size="14" fill="#1F2430" font-weight="400" text-anchor="start">感受、画幅、</text>
+<text x="52" y="166" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">真实素材</text>
+<path d="M206 136 h14" stroke="#5B6270" stroke-width="2"/>
+<path d="M226 136 l-8 -5 v10 z" fill="#5B6270"/>
+<rect x="230" y="70" width="164" height="132" rx="14" fill="#FFFFFF" stroke="#1F9D6B" stroke-width="1.8"/>
+<circle cx="254" cy="98" r="13" fill="#1F9D6B"/>
+<text x="254" y="103" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="276" y="104" font-size="20" fill="#1F9D6B" font-weight="700" text-anchor="start">风格</text>
+<text x="244" y="144" font-size="14" fill="#1F2430" font-weight="400" text-anchor="start">由情绪决定，</text>
+<text x="244" y="166" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">先看三个方向</text>
+<path d="M398 136 h14" stroke="#5B6270" stroke-width="2"/>
+<path d="M418 136 l-8 -5 v10 z" fill="#5B6270"/>
+<rect x="422" y="70" width="164" height="132" rx="14" fill="#FFFFFF" stroke="#D9480F" stroke-width="1.8"/>
+<circle cx="446" cy="98" r="13" fill="#D9480F"/>
+<text x="446" y="103" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="468" y="104" font-size="20" fill="#D9480F" font-weight="700" text-anchor="start">拆卡</text>
+<text x="436" y="144" font-size="14" fill="#1F2430" font-weight="400" text-anchor="start">一卡一个论断，</text>
+<text x="436" y="166" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">版式不重复</text>
+<path d="M590 136 h14" stroke="#5B6270" stroke-width="2"/>
+<path d="M610 136 l-8 -5 v10 z" fill="#5B6270"/>
+<rect x="614" y="70" width="164" height="132" rx="14" fill="#FFFFFF" stroke="#C2255C" stroke-width="1.8"/>
+<circle cx="638" cy="98" r="13" fill="#C2255C"/>
+<text x="638" y="103" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">4</text>
+<text x="660" y="104" font-size="20" fill="#C2255C" font-weight="700" text-anchor="start">搭建</text>
+<text x="628" y="144" font-size="14" fill="#1F2430" font-weight="400" text-anchor="start">spec 生成 HTML，</text>
+<text x="628" y="166" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">自动适配画布</text>
+<path d="M782 136 h14" stroke="#5B6270" stroke-width="2"/>
+<path d="M802 136 l-8 -5 v10 z" fill="#5B6270"/>
+<rect x="806" y="70" width="164" height="132" rx="14" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.8"/>
+<circle cx="830" cy="98" r="13" fill="#C92A2A"/>
+<text x="830" y="103" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<text x="852" y="104" font-size="20" fill="#C92A2A" font-weight="700" text-anchor="start">质检</text>
+<text x="820" y="144" font-size="14" fill="#1F2430" font-weight="400" text-anchor="start">实测检查，</text>
+<text x="820" y="166" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">修了再重建</text>
+<path d="M974 136 h14" stroke="#5B6270" stroke-width="2"/>
+<path d="M994 136 l-8 -5 v10 z" fill="#5B6270"/>
+<rect x="998" y="70" width="164" height="132" rx="14" fill="#FFFFFF" stroke="#2F6FDE" stroke-width="1.8"/>
+<circle cx="1022" cy="98" r="13" fill="#2F6FDE"/>
+<text x="1022" y="103" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">6</text>
+<text x="1044" y="104" font-size="20" fill="#2F6FDE" font-weight="700" text-anchor="start">交付</text>
+<text x="1012" y="144" font-size="14" fill="#1F2430" font-weight="400" text-anchor="start">PNG、总览图、</text>
+<text x="1012" y="166" font-size="14" fill="#5B6270" font-weight="400" text-anchor="start">报告、源文件</text>
+<text x="600" y="250" font-size="17" fill="#5B6270" font-weight="600" text-anchor="middle">每次导出都检查</text>
+<rect x="283" y="276" width="92" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="329" y="301" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">溢出</text>
+<rect x="389" y="276" width="148" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="463" y="301" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">最小字号</text>
+<rect x="551" y="276" width="120" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="611" y="301" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">对比度</text>
+<rect x="685" y="276" width="232" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="801" y="301" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">照片上的对比度</text>
+<rect x="325" y="326" width="92" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="371" y="351" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">留白</text>
+<rect x="431" y="326" width="120" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="491" y="351" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">短末行</text>
+<rect x="565" y="326" width="148" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="639" y="351" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">版式重复</text>
+<rect x="727" y="326" width="148" height="38" rx="19" fill="#FFFFFF" stroke="#C92A2A" stroke-width="1.5"/>
+<text x="801" y="351" font-size="15" fill="#C92A2A" font-weight="600" text-anchor="middle">导出尺寸</text>
+</svg>

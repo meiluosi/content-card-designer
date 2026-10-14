@@ -1,0 +1,32 @@
+{
+ "format": "square-1x1",
+ "mood": "warm",
+ "cards": [
+  {
+   "card": 1,
+   "file": "card-01.png",
+   "layout": "cover",
+   "qa": {
+    "layout": "cover",
+    "scale": 1,
+    "fitStatus": "ok",
+    "overflow": false,
+    "minFont": 34,
+    "minFontRequired": 34,
+    "fillPct": 83,
+    "contrastIssues": [],
+    "shortLastLines": [],
+    "photoText": [],
+    "w": 1080,
+    "h": 1080
+   },
+   "png_size": [
+    1080,
+    1080
+   ],
+   "fails": [],
+   "warns": []
+  }
+ ],
+ "spec_warnings": []
+}

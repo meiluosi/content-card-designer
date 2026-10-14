@@ -1,0 +1,152 @@
+{
+  "_note": "Design tokens per content mood. Edit freely. 'tw' = title font weight, 'lh' = body line height, 'bw' = border width in px at 1080 wide, 'ornament' 0 none / 1 hairlines / 2 hard shadows. Moods marked proposed are the maintainer's extension and have not been validated with readers. 'glow' is an optional soft highlight behind the content and 'bg2' the lower end of a very gentle vertical gradient; leave them out for a flat background.",
+  "warm": {
+    "label": "Warm, healing",
+    "proposed": false,
+    "bg": "#FBF3EA",
+    "ink": "#3B2F2A",
+    "muted": "#6F5B50",
+    "surface": "#FFFFFF",
+    "line": "#EBDCCB",
+    "accents": [
+      "#B5622F",
+      "#8C6A3F",
+      "#4F7A5C",
+      "#B05A52",
+      "#865A7A"
+    ],
+    "radius": 36,
+    "bw": 2,
+    "tw": 700,
+    "lh": 1.55,
+    "ornament": 0,
+    "title_font": "serif",
+    "body_font": "sans",
+    "bg2": "#F6E6D3",
+    "glow": "#FFEFD6"
+  },
+  "efficient": {
+    "label": "Efficient, work",
+    "proposed": false,
+    "bg": "#F4F6F8",
+    "ink": "#18202B",
+    "muted": "#505C6B",
+    "surface": "#FFFFFF",
+    "line": "#D3DAE2",
+    "accents": [
+      "#2457D6",
+      "#0F766E",
+      "#475569",
+      "#A04A00",
+      "#1E293B"
+    ],
+    "radius": 14,
+    "bw": 2,
+    "tw": 800,
+    "lh": 1.4,
+    "ornament": 1,
+    "title_font": "sans",
+    "body_font": "sans",
+    "bg2": "#EDF1F5",
+    "glow": null
+  },
+  "knowledge": {
+    "label": "Knowledge, dry goods",
+    "proposed": false,
+    "bg": "#FAFAF7",
+    "ink": "#111111",
+    "muted": "#444444",
+    "surface": "#FFFFFF",
+    "line": "#111111",
+    "accents": [
+      "#D93A1E",
+      "#111111",
+      "#1F5FFF",
+      "#00774A",
+      "#8A6A00"
+    ],
+    "radius": 8,
+    "bw": 4,
+    "tw": 900,
+    "lh": 1.4,
+    "ornament": 1,
+    "title_font": "sans",
+    "body_font": "sans"
+  },
+  "story": {
+    "label": "Personal story",
+    "proposed": true,
+    "bg": "#F3EEE4",
+    "ink": "#2A2622",
+    "muted": "#675C50",
+    "surface": "#FBF8F1",
+    "line": "#DDD3C2",
+    "accents": [
+      "#8B3A2F",
+      "#4F6F52",
+      "#8F6420",
+      "#5C4B7D",
+      "#2F5D7C"
+    ],
+    "radius": 6,
+    "bw": 2,
+    "tw": 700,
+    "lh": 1.6,
+    "ornament": 0,
+    "title_font": "serif",
+    "body_font": "sans",
+    "bg2": "#EAE2D2",
+    "glow": "#FBF7EE"
+  },
+  "playful": {
+    "label": "Playful, light",
+    "proposed": true,
+    "bg": "#FFF4CC",
+    "ink": "#1D1A33",
+    "muted": "#4F4B6E",
+    "surface": "#FFFFFF",
+    "line": "#1D1A33",
+    "accents": [
+      "#D6246A",
+      "#3043D9",
+      "#007A6B",
+      "#B35A00",
+      "#7A2FD6"
+    ],
+    "radius": 28,
+    "bw": 4,
+    "tw": 900,
+    "lh": 1.45,
+    "ornament": 2,
+    "title_font": "sans",
+    "body_font": "sans"
+  },
+  "analytical": {
+    "label": "Serious, analytical",
+    "proposed": true,
+    "bg": "#0F1722",
+    "ink": "#E8EEF5",
+    "muted": "#9FB0C3",
+    "surface": "#172233",
+    "line": "#2A3A52",
+    "accents": [
+      "#4CC3FF",
+      "#7EE787",
+      "#FFB86B",
+      "#FF7B93",
+      "#C4A6FF"
+    ],
+    "radius": 12,
+    "bw": 2,
+    "tw": 800,
+    "lh": 1.45,
+    "ornament": 1,
+    "title_font": "sans",
+    "body_font": "sans"
+  },
+  "_fonts": {
+    "sans": "-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'Microsoft YaHei', 'Segoe UI', Helvetica, Arial, sans-serif",
+    "serif": "'Songti SC', 'Noto Serif CJK SC', 'Source Han Serif SC', 'STSong', 'SimSun', Georgia, 'Times New Roman', serif",
+    "mono": "ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
+  }
+}

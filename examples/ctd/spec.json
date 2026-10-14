@@ -1,0 +1,30 @@
+{
+  "format": "xhs-3x4",
+  "mood": "knowledge",
+  "footer": "content-topic-decomposer",
+  "cards": [
+    {"layout": "cover", "kicker": "CLAUDE SKILL", "title": "一个主题，\n总写同一种内容？",
+     "subtitle": "把任何主题，\n拆成这周就能动手的内容规划",
+     "chips": ["教程 · 清晰度", "案例 · 可信度", "观点 · 辨识度", "故事 · 温度", "资源 · 可收藏"]},
+    {"layout": "list", "kicker": "一个成熟的主题，五种都要有", "title": "五种内容，\n各干一件事",
+     "items": [
+       {"name": "教程", "tag": "给读者清晰度", "detail": "我怎么做、怎么看懂？"},
+       {"name": "案例", "tag": "给读者可信度", "detail": "真有人做过吗？有什么变化？"},
+       {"name": "观点", "tag": "给读者辨识度", "detail": "你相信什么，和别人有何不同？"},
+       {"name": "故事", "tag": "给读者温度", "detail": "这背后是个什么样的人？"},
+       {"name": "资源", "tag": "给读者可收藏", "detail": "我有什么能留着反复用？"}]},
+    {"layout": "steps", "kicker": "每个选题都再放到两条轴上", "title": "读者阶段\n× 形式",
+     "groups": [
+       {"label": "读者阶段", "kind": "steps", "items": ["不认识你", "刚了解", "准备行动", "已经在用"]},
+       {"label": "形式", "kind": "pills", "items": ["图文", "短视频", "长文", "直播"]}]},
+    {"layout": "points", "kicker": "它最该强调的一点", "title": "它不会\n替你编经历",
+     "boxes": [
+       {"head": "案例和故事", "body": "只留空位，告诉你该去找哪一类真实素材。"},
+       {"head": "观点", "body": "以候选立场给出：常见看法、你的立场、何时不成立。你只保留真正认同的。"},
+       {"head": "经验还不多？", "body": "它会给便宜的补素材办法：小实验、复现公开结果、拆解别人的作品并标明。"}]},
+    {"layout": "cta", "kicker": "怎么用", "title": "直接说你的主题",
+     "steps": ["安装这个 skill", "说出主题和你发布的地方", "拿到约 20 个选题的地图"],
+     "note": {"head": "适用于", "body": "技术、手艺、健康、生活方式、创作，也包括商业。不限于商业主题。"},
+     "code": "github.com/meiluosi/\ncontent-topic-decomposer"}
+  ]
+}

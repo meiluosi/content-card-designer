@@ -1,0 +1,9 @@
+{
+  "format": "ig-4x5",
+  "mood": "warm",
+  "footer": false,
+  "cards": [
+    {"layout": "product", "kicker": "Daybreak", "title": "清晨，从一杯开始", "product": "mug.png",
+     "specs": ["手工釉面陶瓷杯", "350ml"]}
+  ]
+}

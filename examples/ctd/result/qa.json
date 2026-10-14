@@ -1,0 +1,132 @@
+{
+ "format": "xhs-3x4",
+ "mood": "knowledge",
+ "cards": [
+  {
+   "card": 1,
+   "file": "card-01.png",
+   "layout": "cover",
+   "qa": {
+    "layout": "cover",
+    "scale": 1,
+    "fitStatus": "ok",
+    "overflow": false,
+    "minFont": 34,
+    "minFontRequired": 34,
+    "fillPct": 62,
+    "contrastIssues": [],
+    "shortLastLines": [],
+    "photoText": [],
+    "w": 1080,
+    "h": 1440
+   },
+   "png_size": [
+    1080,
+    1440
+   ],
+   "fails": [],
+   "warns": []
+  },
+  {
+   "card": 2,
+   "file": "card-02.png",
+   "layout": "list",
+   "qa": {
+    "layout": "list",
+    "scale": 0.895,
+    "fitStatus": "ok",
+    "overflow": false,
+    "minFont": 34,
+    "minFontRequired": 34,
+    "fillPct": 96,
+    "contrastIssues": [],
+    "shortLastLines": [],
+    "photoText": [],
+    "w": 1080,
+    "h": 1440
+   },
+   "png_size": [
+    1080,
+    1440
+   ],
+   "fails": [],
+   "warns": []
+  },
+  {
+   "card": 3,
+   "file": "card-03.png",
+   "layout": "steps",
+   "qa": {
+    "layout": "steps",
+    "scale": 1.021,
+    "fitStatus": "ok",
+    "overflow": false,
+    "minFont": 34,
+    "minFontRequired": 34,
+    "fillPct": 96,
+    "contrastIssues": [],
+    "shortLastLines": [],
+    "photoText": [],
+    "w": 1080,
+    "h": 1440
+   },
+   "png_size": [
+    1080,
+    1440
+   ],
+   "fails": [],
+   "warns": []
+  },
+  {
+   "card": 4,
+   "file": "card-04.png",
+   "layout": "points",
+   "qa": {
+    "layout": "points",
+    "scale": 1.014,
+    "fitStatus": "ok",
+    "overflow": false,
+    "minFont": 34,
+    "minFontRequired": 34,
+    "fillPct": 96,
+    "contrastIssues": [],
+    "shortLastLines": [],
+    "photoText": [],
+    "w": 1080,
+    "h": 1440
+   },
+   "png_size": [
+    1080,
+    1440
+   ],
+   "fails": [],
+   "warns": []
+  },
+  {
+   "card": 5,
+   "file": "card-05.png",
+   "layout": "cta",
+   "qa": {
+    "layout": "cta",
+    "scale": 1.037,
+    "fitStatus": "ok",
+    "overflow": false,
+    "minFont": 34,
+    "minFontRequired": 34,
+    "fillPct": 96,
+    "contrastIssues": [],
+    "shortLastLines": [],
+    "photoText": [],
+    "w": 1080,
+    "h": 1440
+   },
+   "png_size": [
+    1080,
+    1440
+   ],
+   "fails": [],
+   "warns": []
+  }
+ ],
+ "spec_warnings": []
+}
